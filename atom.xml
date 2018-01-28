@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-28T16:56:14.327Z</updated>
+  <updated>2018-01-28T17:06:50.559Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,12 +18,30 @@
   
   <entry>
     <title></title>
+    <link href="http://yoursite.com/2018/01/29/for-French/"/>
+    <id>http://yoursite.com/2018/01/29/for-French/</id>
+    <published>2018-01-28T17:01:13.838Z</published>
+    <updated>2018-01-28T17:06:50.559Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Test-For-French"><a href="#Test-For-French" class="headerlink" title="Test For French"></a>Test For French</h2><p>“Notre liberté intérieure est inviolable”</p>]]></content>
+    
+    <summary type="html">
+    
+      French Words
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
     <link href="http://yoursite.com/2018/01/29/new-try/"/>
     <id>http://yoursite.com/2018/01/29/new-try/</id>
     <published>2018-01-28T16:51:39.041Z</published>
-    <updated>2018-01-28T16:56:14.327Z</updated>
+    <updated>2018-01-28T17:00:20.844Z</updated>
     
-    <content type="html"><![CDATA[<p>title: new try<br>date: 2018-01-29 00:51:39</p><h2 id="tags"><a href="#tags" class="headerlink" title="tags:"></a>tags:</h2><p>中文测试</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="New-Try"><a href="#New-Try" class="headerlink" title="New Try"></a>New Try</h2><p>中文测试</p>]]></content>
     
     <summary type="html">
     
