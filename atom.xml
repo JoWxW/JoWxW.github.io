@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-28T17:06:50.559Z</updated>
+  <updated>2018-02-01T15:48:39.258Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,42 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2018/01/29/for-French/"/>
-    <id>http://yoursite.com/2018/01/29/for-French/</id>
-    <published>2018-01-28T17:01:13.838Z</published>
-    <updated>2018-01-28T17:06:50.559Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Test-For-French"><a href="#Test-For-French" class="headerlink" title="Test For French"></a>Test For French</h2><p>“Notre liberté intérieure est inviolable”</p>]]></content>
-    
-    <summary type="html">
-    
-      French Words
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>New Try</title>
     <link href="http://yoursite.com/2018/01/29/new-try/"/>
     <id>http://yoursite.com/2018/01/29/new-try/</id>
     <published>2018-01-28T16:51:39.041Z</published>
-    <updated>2018-02-01T13:19:39.053Z</updated>
+    <updated>2018-02-01T15:48:39.258Z</updated>
     
-    <content type="html"><![CDATA[<p>Chinese Characters<br><a id="more"></a><br>中文测试<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">我曾经因为你这么做，非常难过。可是我毕竟已经不再是一个自以为是的孩子了，我明白，凡是人总有取舍，</span><br><span class="line">你取了你认为重要的东西，舍弃了我，这只是你的选择而已。若是我，因为没有被选择，就心生怨恨，</span><br><span class="line">那这世间，岂不是有太多不可原谅之处。毕竟谁也没有责任要以我为先、以我为重，</span><br><span class="line">无论我如何希望也不能强求。</span><br></pre></td></tr></table></figure></p>]]></content>
+    <content type="html"><![CDATA[<p>Language Test<br><a id="more"></a></p><h3 id="中文"><a href="#中文" class="headerlink" title="中文"></a>中文</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">我曾经因为你这么做，非常难过。</span><br><span class="line">可是我毕竟已经不再是一个自以为是的孩子了，我明白，凡是人总有取舍，</span><br><span class="line">你取了你认为重要的东西，舍弃了我，这只是你的选择而已。</span><br><span class="line">若是我，因为没有被选择，就心生怨恨，那这世间，岂不是有太多不可原谅之处。</span><br><span class="line">毕竟谁也没有责任要以我为先、以我为重，</span><br><span class="line">无论我如何希望也不能强求。</span><br></pre></td></tr></table></figure><p><a href="https://baike.baidu.com/item/%E7%90%85%E7%90%8A%E6%A6%9C/12700172?fr=aladdin" target="_blank" rel="noopener">《琅琊榜》</a> 萧景睿台词</p><h3 id="Francais"><a href="#Francais" class="headerlink" title="Français"></a>Français</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">Les accidents qui peuvent toucher le corps d’une femme</span><br><span class="line">n’atteignent pas nécessairement sa dignité et ne doivent pas,</span><br><span class="line">si durs soient-ils parfois, nécessairement faire d’elle une victime perpétuelle.</span><br><span class="line">Notre liberté intérieure est inviolable.</span><br></pre></td></tr></table></figure><p>Tribune dans 《Le Monde》</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Chinese Characters&lt;br&gt;
+      &lt;p&gt;Language Test&lt;br&gt;
     
     </summary>
     
     
       <category term="languageTest" scheme="http://yoursite.com/tags/languageTest/"/>
     
-      <category term="Chinese" scheme="http://yoursite.com/tags/Chinese/"/>
+      <category term="中文" scheme="http://yoursite.com/tags/%E4%B8%AD%E6%96%87/"/>
+    
+      <category term="Français" scheme="http://yoursite.com/tags/Francais/"/>
     
   </entry>
   
@@ -61,16 +45,13 @@
     <link href="http://yoursite.com/2018/01/28/hello-world/"/>
     <id>http://yoursite.com/2018/01/28/hello-world/</id>
     <published>2018-01-28T13:55:00.528Z</published>
-    <updated>2018-02-01T14:38:30.151Z</updated>
+    <updated>2018-02-01T16:22:46.174Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Be a blogger again =)<br><a id="more"></a><br>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      &lt;p&gt;Be a blogger again =)&lt;br&gt;
     
     </summary>
     
