@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-01T19:02:18.737Z</updated>
+  <updated>2018-02-02T08:59:33.572Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>media-test</title>
+    <link href="http://yoursite.com/2018/02/02/media-test/"/>
+    <id>http://yoursite.com/2018/02/02/media-test/</id>
+    <published>2018-02-02T08:07:37.000Z</published>
+    <updated>2018-02-02T08:59:33.572Z</updated>
+    
+    <content type="html"><![CDATA[<p>Try to add some music and video<br><a id="more"></a></p><p>##Music<br><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"http://link.hhtjim.com/xiami/1776429386.mp3"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Try to add some music and video&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>New Try</title>
