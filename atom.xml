@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-03T03:20:18.706Z</updated>
+  <updated>2018-02-03T03:22:06.249Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>media-test</title>
+    <title>Media Test</title>
     <link href="http://yoursite.com/2018/02/02/media-test/"/>
     <id>http://yoursite.com/2018/02/02/media-test/</id>
     <published>2018-02-02T08:07:37.000Z</published>
-    <updated>2018-02-03T03:20:18.706Z</updated>
+    <updated>2018-02-03T03:22:06.249Z</updated>
     
     <content type="html"><![CDATA[<p>Try to add some music and video<br><a id="more"></a></p><h2 id="Music"><a href="#Music" class="headerlink" title="Music"></a>Music</h2><p>林宥嘉 - 全世界谁倾听你<br><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; height:233px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"http://link.hhtjim.com/xiami/1776429386.mp3","pic":"http://ww4.sinaimg.cn/large/005XbUj4gw1fb7tu7uhd1j30qo0qowkz.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script></p><h2 id="Video"><a href="#Video" class="headerlink" title="Video"></a>Video</h2>]]></content>
     
