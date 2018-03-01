@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/03/01/firstSnowIn2018/</loc>
+    
+    <lastmod>2018-03-01T13:42:45.575Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2018-02-03T16:20:03.379Z</lastmod>
@@ -16,7 +23,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2018/01/29/new-try/</loc>
+    <loc>http://yoursite.com/2018/01/28/new-try/</loc>
     
     <lastmod>2018-02-01T19:02:18.737Z</lastmod>
     
